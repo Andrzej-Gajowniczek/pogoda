@@ -8,9 +8,9 @@ go build -o pogoda
 uruchomienie binarki na Linuksie:
 ./pogoda
 
-# jest to przykłądowe wykożystanie api do pobrania json i parsowania tylko tych parametrów które nas intersują. 
-# nie ponoszę żadnych konsekwencji tego że program może nie zadziałać u icebie albo coś sobie popsujesz grzebiąc w nim.
-# program nie zawiera ukrytego kodu ani niczego w zasadzie nie zawiera i był napisany na kolanie po inspiracji artykułem kolegi z Linkedin.
+#### jest to przykłądowe wykożystanie api do pobrania json i parsowania tylko tych parametrów które nas intersują. 
+#### nie ponoszę żadnych konsekwencji tego że program może nie zadziałać u icebie albo coś sobie popsujesz grzebiąc w nim.
+#### program nie zawiera ukrytego kodu ani niczego w zasadzie nie zawiera i był napisany na kolanie po inspiracji artykułem kolegi z Linkedin.
 
 Serdecznie Cię pozdrawiam!
 
