@@ -1,5 +1,5 @@
 # pogoda
-program kompilujesz i uruchamiasz w jednym kroku jęsli masz zainstalowane środowisko GO i znajdujesz się w katalogu z plikiem main.go poprzez:
+program kompilujesz i uruchamiasz w jednym kroku jeśli masz zainstalowane środowisko GO i znajdujesz się w katalogu z plikiem main.go poprzez:
 go run . 
 
 budowanie wykonywalnej binarki:
